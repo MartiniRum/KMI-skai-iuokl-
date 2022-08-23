@@ -1,2 +1,3 @@
 # KMI-skaiciuokle
-GMI calculator
+simple GMI calculator with PHP
+required localhost server to launch
