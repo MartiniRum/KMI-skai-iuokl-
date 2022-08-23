@@ -1,2 +1,2 @@
-# KMI-skai-iuokl-
+# KMI-skaiciuokle
 GMI calculator
